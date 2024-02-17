@@ -1,0 +1,9 @@
+How to run this program
+
+1. admin username : admin
+   admin password : admin
+
+2. teacher username : teacher 
+   teacher password : teacher
+ 
+3. To login as student first login as admin and register a student then enter the username and password you set for the student.
